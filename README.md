@@ -16,9 +16,9 @@
 - :mag_right: Reverse engineering and disassembly analysis of electrical/mechanical devices.  
 - :straight_ruler: Data acquisition and data analysis of physical systems using National instruments, Python, and self-developed sensors.  
 - :nut_and_bolt: Mechanical design of robotics, mechanical structures and systems.
-- :microscope: CNC machining (CAM, CAD) and high tolerance machining strategies. 
+- :microscope: CNC machining (CAM, CAD) and high tolerance machining strategies.   
   
----
+#
 - 📫 How to reach me: **axeljohansson@duck.com**
 
 
