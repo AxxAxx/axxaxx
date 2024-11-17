@@ -3,7 +3,7 @@
 🛠️ I am a mechatronics engineer by profession and a maker by heart  
 
 ### Things I do
-- :boom: Buying a great product just to realize I can do it better and develop my own version. [AxxSolder](https://github.com/AxxAxx/AxxSolder) for example.
+- :boom: Buying a great product just to realize I can do it better and develop my own version. [AxxSolder](https://github.com/AxxAxx/AxxSolder) is such an example.
 - :bike: Driving hard enduro motorcycle in the forest. This is why [AxxBeam](https://github.com/AxxAxx/AxxBeam) was developed. :flashlight: :last_quarter_moon:
 - 💪 Sport climbing is my weekly training routine.
 - 🌱 Learning about ML and Reinforcement learning in optimal control.
