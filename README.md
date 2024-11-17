@@ -2,6 +2,11 @@
 
 🛠️ I am a mechatronics engineer by profession and a maker by heart  
 
+### Things I do
+- :boom: Buying a great product just to realize I can do it better and develop my own version. [AxxSolder](https://github.com/AxxAxx/AxxSolder) for example.
+- :bike: Driving hard enduro motorcycle in the forest. This is why [AxxBeam](https://github.com/AxxAxx/AxxBeam) was developed. :flashlight: :last_quarter_moon:
+- 💪 Sport climbing is my weekly training routine.
+- 🌱 Learning about ML and Reinforcement learning in optimal control.
 
 ### Skills I enjoy to deploy
 - :electric_plug: Electrical design of single PCBs to larger systems and mechatronic integration.  
@@ -13,12 +18,6 @@
 - :nut_and_bolt: Mechanical design of robotics, mechanical structures and systems.
 - :microscope: CNC machining (CAM, CAD) and high tolerance machining strategies. 
   
-    
-### Things I keep myself busy with
-- :boom: Buying a great product just to realize I can do it better and develop my own version. [AxxSolder](https://github.com/AxxAxx/AxxSolder) for example.
-- :bike: Driving hard enduro motorcycle in the forest. This is why [AxxBeam](https://github.com/AxxAxx/AxxBeam) was developed. :flashlight: :last_quarter_moon:
-- 💪 Sport climbing is my weekly training routine.
-- 🌱 Learning about ML and Reinforcement learning in optimal control.
 ---
 - 📫 How to reach me: **axeljohansson@duck.com**
 
